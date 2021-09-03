@@ -141,6 +141,7 @@ opacity: 0.6;}
 .im4:hover{  
         transform: scale(1.2);
         transition: all 1s ease 0s;}
+        
 .imw{position: absolute;max-width: 250px;
 left:54rem;
 top: 41rem;}
